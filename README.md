@@ -9,7 +9,7 @@ I enjoy building real-world systems step by step, focusing on clarity, correctne
 - **Backend:** Python, Django, Django REST Framework
 - **Database:** MySQL
 - **Frontend (basic):** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, Docker
 - **Other:** REST APIs, Authentication, Role-based access
 
 ---
