@@ -8,7 +8,7 @@ I enjoy building real-world systems step by step, focusing on clarity, correctne
 ### 🛠 Tech Stack
 - **Backend:** Python, Django, Django REST Framework
 - **Database:** MySQL
-- **Frontend (basic):** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, Docker
 - **Other:** REST APIs, Authentication, Role-based access
 
@@ -19,10 +19,17 @@ I enjoy building real-world systems step by step, focusing on clarity, correctne
 - Designing clean APIs with proper validation and permissions
 - Improving database design and backend logic
 - Practicing consistency through regular GitHub commits
+- **Designing Interactive Systems:** Building a practice platform that handles real-time code highlighting and state-based answer reveals
 
 ---
 
 ### 🚀 Projects & Experience
+- **Coding Practice Problem**
+  - Designed and developed a full-stack coding practice platform to strengthen SQL, Python, and C++ problem-solving skills
+  - Built a dynamic in-browser IDE using Ace Editor and Prism.js to simulate a professional VS Code–like environment
+  - Extended Django Admin with custom JavaScript to dynamically adjust syntax highlighting based on problem category
+  - Implemented scalable backend architecture using an abstract BaseModel pattern with UUIDs and slugs for secure, production-ready data modeling
+
 - **Custom User Authentication System**
   - Mobile-based login
   - UUID-based models
