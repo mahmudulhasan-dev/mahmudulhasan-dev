@@ -7,7 +7,7 @@ I enjoy building real-world systems step by step, focusing on clarity, correctne
 
 ### 🛠 Tech Stack
 - **Backend:** Python, Django, Django REST Framework
-- **Database:** MySQL
+- **Database:** MySQL, Redis
 - **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, Docker
 - **Other:** REST APIs, Authentication, Role-based access
