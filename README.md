@@ -40,7 +40,7 @@ Custom UUID-based auth systems, a browser-based coding practice tool (Ace Editor
 
 ### 📫 Connect
 - Website: [mushtor.com](https://mushtor.com)
-- LinkedIn:[linkedin.com/in/hasanmclean](https://linkedin.com/in/hasanmclean)
+- LinkedIn:[linkedin.com/in/mahmudulhasan-dev](https://linkedin.com/in/mahmudulhasan-dev)
 - GitHub: [github.com/mahmudulhasan-dev](https://github.com/mahmudulhasan-dev)
 
 > *One real product, built and shipped solo — clarity, correctness, and long-term maintainability over breadth.*
