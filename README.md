@@ -24,6 +24,10 @@ A Bengali-language SSC/HSC education platform I design, build, and maintain end-
 - **Auth:** SimpleJWT with HttpOnly cookie refresh tokens
 - **SEO-conscious architecture:** sitemap, structured meta tags, and indexing strategy tuned for a content-driven site
 
+<p align="center">
+  <img src="assets/mushtor-architecture.svg" alt="Mushtor high-level architecture diagram" width="850">
+</p>
+
 ---
 
 ### 🎯 Current Focus
